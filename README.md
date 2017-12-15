@@ -1,3 +1,3 @@
 # Spring-Boot
 
-Creating REST API using Spring data rest
+- Created REST API using Spring data rest
